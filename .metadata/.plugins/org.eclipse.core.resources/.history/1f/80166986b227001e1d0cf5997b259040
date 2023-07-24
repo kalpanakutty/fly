@@ -1,0 +1,8 @@
+package flyaway;
+
+public class Register_confirm {
+	@FindBy(xpath="//a[@href=\"login\"]")
+	public static WebElement login;
+
+
+}
